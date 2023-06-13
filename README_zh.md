@@ -2,11 +2,8 @@
 
 使用 ThinkPrompt 生成定制的 Prompt，释放大模型能力
 
-公众号：AI Prompt 小助手
-
 灵感来自：[LangGPT](https://github.com/yzfly/LangGPT/)
 
-## 目录：
 
 ## 为什么是 ThinkPrompt？
 
@@ -22,7 +19,7 @@ ThinkPrompt 让你
 
 ## 快速开始
 
-(点击链接查看 Prompt 详情)[https://ai-prompt.cn/prompt-hub/chat/64880d5d08c319ebef09cf36]
+[点击链接查看 Prompt 详情](https://ai-prompt.cn/prompt-hub/chat/64880d5d08c319ebef09cf36)
 
 ## ThinkPrompt
 
