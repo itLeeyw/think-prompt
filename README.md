@@ -1,7 +1,7 @@
 # ThinkPrompt
 Natural language programming framework based ai prompt
 
-Inspiration comes from: (LangGPT)[https://github.com/yzfly/LangGPT]
+Inspiration comes from: [LangGPT](https://github.com/yzfly/LangGPT)
 
 [【中文文档】](README_zh.md)
 
